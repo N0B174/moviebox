@@ -12,28 +12,28 @@
     "success_url": "https://t.me/TeleRoidGroup",
     "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
     "env": {
-        "API_ID": {
+        "API_ID": 21809176
             "description": "Get this value from my.telegram.org"
         },
-        "API_HASH": {
+        "API_HASH": "7f31d1bcfbe3d7f9fd2443c07a1f0607"
             "description": "Get this value from my.telegram.org"
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": "7645734668:AAHXqcNqIpGcuRSAlaQf3oGZjCEno4eUWMk"
             "description": "Get this from @BotFather the Official Bot"
         },
-        "BOT_USERNAME": {
+        "BOT_USERNAME": "m0v1eb0x_robot"
             "description": "Your Bot Username which you sent to @BotFather (Without [@])"
         },
-        "DB_CHANNEL": {
+        "DB_CHANNEL": -1002873932698
             "description": "The Channel ID which will be used as Database. Example: -100123456789"
         },
-        "BOT_OWNER": {
+        "BOT_OWNER": 7025803439
             "description": "Bot Owner UserID"
         },
         "DATABASE_URL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
-        "UPDATES_CHANNEL": {
+        "UPDATES_CHANNEL": "https://t.me/+1buXgfezqE1iYWU1"
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
             "required": false
         },
